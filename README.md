@@ -1,4 +1,4 @@
-# adv_basics
+# IQ App using flutter
 
 A new Flutter project.
 
