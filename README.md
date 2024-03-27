@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+<img width="354" alt="main" src="https://github.com/Abdullah-XDev/IQ-App/assets/163126808/a8cca1de-1977-4663-942d-b5d1536d60b9">
+
+<img width="354" alt="result" src="https://github.com/Abdullah-XDev/IQ-App/assets/163126808/a8c3ae93-f72e-4d30-b038-05e87d0336e3">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
